@@ -127,9 +127,13 @@ h1{
   .card {
     flex-direction: column;
     align-items: center;
+    height: 75vh;
   }
 
+  .card-img-name{
+    height: 30vh;
+  }
   .user-form {
-    max-width: 400px;
+    max-width: 300px;
   }
 }
